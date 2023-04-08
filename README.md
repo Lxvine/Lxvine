@@ -28,8 +28,8 @@
  
  <p></p>
  
-<div>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight" alt="https://github.com/Elanza-48" />
+<div style="display:grid;align-items:center;justify-content:center" align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight" alt="https://github.com/lxvine" />
 </div>
 
 <p></p>
