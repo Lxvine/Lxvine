@@ -17,9 +17,9 @@
 - ⚡ Fun fact: ...
 
 ---
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lxvine&theme=dark&background=000000)](https://git.io/streak-stats)
-
+<div align="center">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lxvine&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
 ---
 
 <div style="display:grid;align-items:center;justify-content:center" align="center">
