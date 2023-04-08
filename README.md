@@ -1,8 +1,12 @@
 <p align="center">
-<picture ><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px align="center"></picture>
-  <h3 align="center">Miguel Losada</h3>
+  <picture ><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px align="center"></picture>
 </p>
-  ### ABOUT ME: 
+
+<h3 align="center"> Hello there 👋</h3>
+
+<p align="center">
+  I'm Miguel, a self-motivated tech enthusiast and full stack developer.
+</p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
