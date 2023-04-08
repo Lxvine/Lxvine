@@ -1,5 +1,6 @@
 <p align="center">
 <picture ><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px align="center"></picture>
+  <h3>Miguel Losada</h3>
 </p>
   ### ABOUT ME: 
 
