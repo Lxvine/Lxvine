@@ -11,7 +11,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
- 🌱 Always learning. | 💬 mlosadateixeira@gmail.com | 📫 Pontevedra, Galicia. | ⚡ Keep working.
+ 🌱 Always learning. | 💬 mlosadateixeira@gmail.com | 📫 Pontevedra, Galicia. | ⚡ 04/10/1994.
 </p>
 
 ---
@@ -36,4 +36,4 @@
   <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lxvine&layout=compact&theme=gotham&langs_count=8" align="center"/>
 </div>
 
- ---
+ <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
