@@ -1,11 +1,5 @@
 <p align='center'><a href="https://www.youtube.com/watch?v=Sagg08DrO5U&ab_channel=Setanta" ><img src="https://theabbie.github.io/files/logo.png" alt="TheAbbie" width="100" height="100"></a></p>
 
-<h2 align="center"> Hello there 👋</h2>
-
-<p align="center">
-  I'm Miguel, a self-motivated tech enthusiast and a junior developer who keeps improving day by day.
-</p>
-
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ---
 
