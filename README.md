@@ -1,9 +1,12 @@
-<p align='center'><a href="https://www.youtube.com/watch?v=Sagg08DrO5U&ab_channel=Setanta" ><img src="https://theabbie.github.io/files/logo.png" alt="TheAbbie" width="100" height="100"></a></p>
 
 
 <p align="center">
   <picture ><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px align="center"></picture>
 </p>
+
+<p></p>
+
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p></p>
  
@@ -19,4 +22,4 @@
 
 <p></p>
 
- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
